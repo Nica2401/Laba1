@@ -1,2 +1,4 @@
 #include "sdt.h"
-int main()
+int main()// This program is just an example one under VCS.
+cout << "Enter A and B: ";
+cin >> a >> b;
